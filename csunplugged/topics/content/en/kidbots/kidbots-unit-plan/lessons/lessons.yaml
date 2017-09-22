@@ -1,0 +1,175 @@
+move-to-a-number:
+  duration: 30
+  computational-thinking-links: move-to-a-number-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-identify-bug-correct
+    - unplugged-programming-explain-exact-instructions
+    - unplugged-programming-follow-instructions
+    - unplugged-programming-give-accurate-instructions-pace
+    - unplugged-programming-accurately-count
+    - numeracy-recognise-numbers-represented
+    - unplugged-programming-communicate-debugging
+    - unplugged-programming-actively-listen-feedback
+  generated-resources:
+    arrows:
+      description: Cut theses sheets out for students.
+    left-right-cards:
+      description: Cut these sheets out for students who are still learning their left and right.
+    job-badges:
+      description: Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+    grid:
+      description: 8 x 8 grid for students to use if no large grid available.
+  classroom-resources:
+    - 8 x 8 (approx) squared grid (30cm squares approx if possible).
+    - Activity can also be done on a small board, such as a chess board or 100's board.
+    - A variety of ways of presenting numbers from 1 - 10 (numerals, dots, maths equipment).
+    - Small whiteboard and two whiteboard pens (different colours); or paper on a clipboard.
+
+modulo:
+  duration: 30
+  computational-thinking-links: modulo-ct-links.md
+  generated-resources:
+    modulo-clock:
+      description: Clock face with blank, 2, and 10 digit combinations.
+    train-stations:
+      description: Train stations with circular or twisted tracks.
+    piano-keys:
+      description: Piano keys with optional highlighted keys.
+  classroom-resources:
+    - Counters to mark positions.
+  programming-challenges:
+    - modulo-even-odd-numbers
+    - modulo-check-divisor
+    - modulo-add-hours-12-hour-clock
+    - modulo-add-hours-12-hour-clock-without-mod
+    - modulo-add-hours-24-hour-clock
+    - modulo-display-midi-note
+    - modulo-add-months
+    - modulo-add-video-timings
+    - modulo-check-leap-year
+  programming-challenges-description: modulo-programming.md
+
+finding-2d-shapes:
+  duration: 30
+  computational-thinking-links: finding-2d-shapes-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-give-instructions
+    - unplugged-programming-identify-bug-correct
+    - unplugged-programming-explain-exact-instructions
+    - unplugged-programming-follow-instructions
+    - unplugged-programming-identify-2D-shapes
+    - unplugged-programming-communicate-debugging
+    - unplugged-programming-actively-listen-feedback
+    - unplugged-programming-give-accurate-instructions-pace
+  generated-resources:
+    arrows:
+      description: Cut theses sheets out for students.
+    left-right-cards:
+      description: Cut these sheets out for students who are still learning their left and right.
+    job-badges:
+      description:  Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+  classroom-resources:
+    - 8 x 8 (approx) squared grid (30cm approx) or more
+    - A variety of 2D shapes (tesselation shapes), they can be the same shapes
+    - Small whiteboard and two whiteboard pens (different colours), or
+    - Paper on a clipboard
+
+moving-in-a-shape:
+  duration: 30
+  computational-thinking-links: moving-in-a-shape-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-give-instructions-shape
+    - unplugged-programming-identify-bug-shape
+    - unplugged-programming-explain-exact-instructions
+    - unplugged-programming-follow-instructions
+    - unplugged-programming-give-accurate-instructions-pace
+    - unplugged-programming-describe-draw-2D-shape
+  generated-resources:
+    arrows:
+      description: Cut theses sheets out for students.
+    left-right-cards:
+      description: Cut these sheets out for students who are still learning their left and right.
+    job-badges:
+      description:  Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+  classroom-resources:
+    - 8 x 8 (approx) squared grid (30cm approx) or more
+    - A toy
+    - Blocks (between 1 and 5)
+    - Whiteboard and two whiteboard pens (different colours)
+
+storytelling:
+  duration: 30
+  computational-thinking-links: storytelling-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-give-instructions
+    - unplugged-programming-identify-bug-correct
+    - unplugged-programming-communicate-debugging
+    - literacy-plan-story-props
+    - unplugged-programming-explain-tell-stories
+    - unplugged-programming-follow-instructions
+    - unplugged-programming-recall-direction-words
+  generated-resources:
+    arrows:
+      description: Cut theses sheets out for students.
+    left-right-cards:
+      description: Cut these sheets out for students who are still learning their left and right.
+    job-badges:
+      description: Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+    grid:
+      description: 8 x 8 grid for students to use if no large grid available.
+  classroom-resources:
+    - 8 x 8 (approx) squared grid (30cm squares approx if possible).
+    - Activity can also be done on a small board, such as a chess board.
+    - A toy that will be the object moving.
+    - 1 to 5 blocks or toys.
+    - Small whiteboard and two whiteboard pens (different colours); or paper on a clipboard.
+
+fitness-unplugged:
+  duration: 45
+  computational-thinking-links: fitness-unplugged-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-apply-addition-multiplication
+    - unplugged-programming-design-fitness-achievable
+    - unplugged-programming-construct-fitness-workout
+    - unplugged-programming-design-language
+    - programming-identify-loop
+  generated-resources:
+    job-badges:
+      description:  Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+  classroom-resources:
+    - 1 hula hoop
+    - 6 whiteboards or clipboards with blank paper
+    - 6 cards (cut in squares approximately 15 cm x 15 cm)
+    - Colouring in pencils, crayons or felt tip pens
+
+sending-a-rocket-to-mars:
+  duration: 30
+  computational-thinking-links: sending-a-rocket-to-mars-ct-links.md
+  learning-outcomes:
+    - unplugged-programming-give-precise-instructions
+    - unplugged-programming-identify-bug-correct
+    - unplugged-programming-explain-exact-instructions
+    - unplugged-programming-give-accurate-instructions-pace
+    - unplugged-programming-communicate-debugging
+    - unplugged-programming-actively-listen-feedback
+  generated-resources:
+    arrows:
+      description: Cut theses sheets out for students.
+    left-right-cards:
+      description: Cut these sheets out for students who are still learning their left and right.
+    job-badges:
+      description: Cut these out and use them as badges for the three students doing the three jobs respectively. You might want to put them in a name holder on a lanyard.
+    grid:
+      description: 8 x 8 grid for students to use if no large grid available.
+  classroom-resources:
+    - 8 x 8 (approx) squared grid (30cm squares approx if possible).
+    - Activity can also be done on a small board, such as a chess board.
+    - A toy that represents the destination (in our example we use planet Mars).
+    - A toy that will be the object moving  (in our example we use a rocket).
+    - 1 to 5 blocks or toys to represent barriers such as a comet, space junk and an asteroid.
+    - Small whiteboard and two whiteboard pens (different colours); or paper on a clipboard.
+  programming-challenges:
+    - program-bee-bot
+    - modify-bee-bot
+    - catch-the-mouse
+    - catch-the-mouse-random
